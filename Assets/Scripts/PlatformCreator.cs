@@ -6,7 +6,7 @@ public class PlatformCreator : MonoBehaviour
 {
     public GameObject platformPrefab;
 
-    float randomHeight = 0.5f;
+    float randomHeight = 0.4f;
 
     // Start is called before the first frame update
     void Start()
